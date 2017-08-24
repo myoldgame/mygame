@@ -16,45 +16,45 @@ Zu einem späteren Zeitpunkt ist zu überlegen einzelne Teile, die für Berechnu
 
 ## Roadmap
 **v0.1**
-Baufunktion.
-Produktion von Res.
-Bau von Fleet & Deff.
-Forschung.
-Fleet: Transport, Statio, Spio, Fake-Angriff, Kolo
-Nachrichten
-Bauschleife.
-Forschungsschleife.
+* Baufunktion.
+* Produktion von Res.
+* Bau von Fleet & Deff.
+* Forschung.
+* Fleet: Transport, Statio, Spio, Fake-Angriff, Kolo
+* Nachrichten
+* Bauschleife.
+* Forschungsschleife.
 
 **v0.2**
-Kampfscript
-TFs
-Mond
-100% JS-Abdeckung
-Allianzen
-Buddys
-Statistik inkl. verlauf
+* Kampfscript
+* TFs
+* Mond
+* 100% JS-Abdeckung
+* Allianzen
+* Buddys
+* Statistik inkl. verlauf
 
 **v0.3**
-Allianzdiplomatie
-AKS
-JS-Performance update
-Handelsplatz - Auktionen
+* Allianzdiplomatie
+* AKS
+* JS-Performance update
+* Handelsplatz - Auktionen
 
 **v0.5**
 
 
 **v1.0**
-Multi-Lingual
-Nachrichten via push
-Zentrale Hauptseite
-    - Board
-    - Chat
-Tests
+* Multi-Lingual
+* Nachrichten via push
+* Zentrale Hauptseite
+*     - Board
+*     - Chat
+* Tests
 
 **v2.0**
-Premiumfunktionen OHNE p2w - Community reward system
-Bots
-KS aus PHP auslagern
+* Premiumfunktionen OHNE p2w - Community reward system
+* Bots
+* KS aus PHP auslagern
 
 ## Fragen
 
